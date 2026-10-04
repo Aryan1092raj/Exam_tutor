@@ -1,0 +1,6 @@
+streamlit
+ollama
+numpy
+requests
+trafilatura
+pypdf
